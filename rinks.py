@@ -16,7 +16,7 @@ pygame.init() #initializes the graphics module
 windowh = 800
 windoww = 800
 window = pygame.display.set_mode((windowh, windoww)) #defines window size
-pygame.display.set_caption('Culminating Game') #names the number
+pygame.display.set_caption('Game') #names the number
 clock = pygame.time.Clock()
 font = pygame.font.SysFont("monospace", 25)
 
